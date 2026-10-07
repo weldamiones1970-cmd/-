@@ -3,7 +3,7 @@ display_name: "每日油价查询"
 desc: "返回今日国内各省市的92号/95号/98号汽油及0号柴油的最新零售价格，一查全知;地区覆盖支持全国31个省/自治区/直辖市的价格查询，按地区筛选即可获取当地油价;价格更新油价数据随国家发改委每10个工作日调价窗口实时更新，确保数据及时准确;多油品支持同时返回汽油（多标号）和柴油价格，满足不同车型用户的加油需求。"
 version: "1.0.0"
 author: "文三"
-repo: ""
+repo: "https://github.com/weldamiones1970-cmd/-"
 astrbot_version: ">=4.18.0" 
 support_platforms:
   - aiocqhttp
