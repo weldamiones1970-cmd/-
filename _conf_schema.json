@@ -1,0 +1,9 @@
+{
+  "api_key": {
+    "description": "聚合数据 API Key",
+    "type": "string",
+    "default": "",
+    "secret": true,
+    "hint": "前往聚合数据官网申请: https://www.juhe.cn/"
+  }
+}
